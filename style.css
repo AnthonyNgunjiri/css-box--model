@@ -1,0 +1,25 @@
+ body { 
+    width: 50%;
+    height: 50%;
+    border: 40px solid black;
+    padding: 40px;
+    margin-top: 40px;
+    margin-top: 40px;
+    margin-top: 40px;
+    margin-top: 40px;
+    background-color:rgb(101, 230, 16);
+    align-items: center;
+    
+}
+p {
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    border-top: 40px;
+    border-left: 40px;
+    border-right: 40px;
+    border-bottom: 40px;
+  }
+  
+ 
